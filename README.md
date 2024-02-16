@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.NET Core, Microservices, Azure, Observability and Database.**
 
-- 💬 Ask me about **.Net, rest and database.**
+- 💬 Ask me about **.Net, microservices, restfull and database.**
 
 - 📫 How to reach me **mauriciobernardodesouza@gmail.com**
 
